@@ -1,0 +1,21 @@
+{
+  "Author": "PvPAuto Community",
+  "Name": "PvPAuto Lite",
+  "InternalName": "PvPAutoLite",
+  "AssemblyVersion": "1.0.0.2",
+  "Description": "从 FFXIVPVPAuto 精简而来的 PvP 自动化插件：自动防御、自动净化、崩破职业护盾、自动治愈、自动选目标、自动猛击、范围选点、减益反制、忍者/武士/远敏/镰刀职业自动化，以及测试模块。所有功能默认关闭，需手动启用。",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/local/PvPAuto",
+  "Tags": [
+    "pvp",
+    "automation",
+    "combat"
+  ],
+  "DalamudApiLevel": 15,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "简化版 PvP 自动化助手。",
+  "AcceptsFeedback": true
+}
